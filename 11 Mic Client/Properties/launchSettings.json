@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "11 Mic Client (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "11 Mic Client (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
